@@ -1,8 +1,11 @@
 ### Hi 
 🔭 哈喽，我是一名前端开发，目前就职于潭州教育
+
 🌱 经常写 vue ts nuxt  
+
 👯 喜欢研究富文本编辑器 websocket hexo vuepress shell脚本 桌面应用
-😄 23岁喜欢玩手游 
+
+😄23岁喜欢玩手游 
 
 <!--
 **Lee981265/Lee981265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
