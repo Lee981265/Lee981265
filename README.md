@@ -1,5 +1,5 @@
 ### Hi 
-🔭 哈喽，我是一名前端开发，目前就职于UR
+🔭 哈喽
 
 <!--
 **Lee981265/Lee981265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
